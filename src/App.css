@@ -1,41 +1,7 @@
-*{
-  margin: 0;
-  padding: 20px;
-  box-sizing: border-box;
-}
-
-body{
-  font-family: sans-serif;
-}
-
 .speech{
-  width: 50px;
-}
-
-.group{
-  margin: 7px 0;
-}
-
-textarea{
-  width: 100%;
-  padding: 5px 10px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 20px;
+  width: 50%;
   border: 1px solid black;
-  outline: none;
-  border-radius: 3px;
-}
-
-button{
-  width: 100%;
-  display: block;
-  padding: 10px 22px;
-  color: brown;
-  font-weight: bold;
-  cursor: pointer;
-  outline: none;
-  background-color: bisque;
-}
-
-h2{
-  margin-bottom: 10px;
-  text-align: center;
 }

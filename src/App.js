@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useSpeechSynthesis } from 'react-speech-kit';
-// import './App.css';
+import './App.css';
 
 const App = () =>{
   
