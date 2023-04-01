@@ -1,7 +1,39 @@
 .speech{
-  margin-left: 20px;
+  margin: auto;
   margin-top: 20px;
   padding: 20px;
-  width: 50%;
+  width: 700px;
   border: 1px solid black;
+  justify-content: center;
+}
+
+.content{
+  margin-left: 20px;
+}
+
+.group{
+  margin: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+textarea{
+  border: 3px solid black;
+}
+
+textarea:hover{
+  background-color: darkseagreen;
+}
+
+button{
+  width: 100px;
+  height: 30px;
+  color: blue;
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: aqua;
 }

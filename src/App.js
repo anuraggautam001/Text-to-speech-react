@@ -14,7 +14,7 @@ const App = () =>{
               <h2>Text to Speech Converter Using React</h2>
             </div>
             <div className='group'>
-              <textarea rows={10} onChange={(e) => setValue(e.target.value)}></textarea>
+              <textarea rows={2} cols={80} placeholder='Type anything here.... then press speech' onChange={(e) => setValue(e.target.value)}></textarea>
             </div>
             <div className='group'>
               <button onClick={() => speak({text:value})}>
