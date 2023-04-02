@@ -1,4 +1,4 @@
-.speech{
+.layout{
   margin: auto;
   margin-top: 20px;
   padding: 20px;
@@ -7,11 +7,9 @@
   justify-content: center;
 }
 
-.content{
-  margin-left: 20px;
-}
 
-.group{
+
+.content{
   margin: 10px;
   width: 100%;
   display: flex;
