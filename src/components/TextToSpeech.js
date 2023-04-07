@@ -11,7 +11,7 @@ const TextToSpeech = () =>{
     return(
         <div className='layout'>
             <div className='content'>
-              <h2>Text to Speech Converter Using React</h2>
+              <h2>Text to Speech Converter</h2>
             </div>
             <div className='content'>
               <textarea rows={2} cols={80} placeholder='Type anything here.... then press speech' 
